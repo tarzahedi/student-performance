@@ -20,7 +20,3 @@ This project analyzes a synthetic dataset of student records to predict academic
 - Python 3  
 - pandas, numpy, matplotlib, seaborn  
 - scikit-learn
-
----
-
-Feel free to reach out for questions or collaboration!

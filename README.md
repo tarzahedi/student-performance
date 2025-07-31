@@ -1,6 +1,6 @@
 # Student Performance Prediction
 
-This project analyzes a synthetic dataset of student records to predict academic performance based on study habits and lifestyle factors. It explores multiple regression techniques, evaluates model performance, and compares different algorithms.
+This project analyzes [dataset of student records](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression) to predict academic performance based on study habits and lifestyle factors. It explores multiple regression techniques, evaluates model performance, and compares different algorithms.
 
 ## Features
 
@@ -12,7 +12,7 @@ This project analyzes a synthetic dataset of student records to predict academic
 ## How to Run
 
 1. Clone the repo.  
-2. Place the CSV dataset (`student_performance.csv`) in the same folder.  
+2. Place the CSV dataset (`Student_Performance.csv`) in the same folder.  
 3. Run the Jupyter Notebook cells sequentially.  
 
 ## Technologies

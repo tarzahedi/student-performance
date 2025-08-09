@@ -4,19 +4,19 @@ This project analyzes [dataset of student records](https://www.kaggle.com/datase
 
 ## Features
 
-- Exploratory Data Analysis  
-- Multiple Linear Regression modeling  
-- Model evaluation with MAE, RMSE, R²  
+- Exploratory Data Analysis
+- Multiple Linear Regression modeling
+- Model evaluation with MAE, RMSE, R²
 - Comparison with Decision Tree, Random Forest, Gradient Boosting, SVR, and Polynomial Regression
 
 ## How to Run
 
-1. Clone the repo.  
-2. Place the CSV dataset (`Student_Performance.csv`) in the same folder.  
-3. Run the Jupyter Notebook cells sequentially.  
+1. Clone the repo.
+2. Place the CSV dataset (`Student_Performance.csv`) in the same folder.
+3. Run the Jupyter Notebook cells sequentially.
 
 ## Technologies
 
-- Python 3  
-- pandas, numpy, matplotlib, seaborn  
+- Python 3
+- pandas, numpy, matplotlib, seaborn
 - scikit-learn
